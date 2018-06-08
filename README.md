@@ -2,7 +2,7 @@
 s player uses ffmpeg to play video files.
 
 Most files in FFmpeg are under the GNU Lesser General Public License version 2.1 or later(LGPL v2.1+).
-<a href=https://play.google.com/store/apps/details?id=kr.co.erin.videoplayer>S&nbsp;Player</a> in playstore is complies with the GPL license.
+<a href=https://play.google.com/store/apps/details?id=kr.co.erin.videoplayer>S-Player</a> in playstore is complies with the GPL license.
 
 FFmpeg
 -----------
